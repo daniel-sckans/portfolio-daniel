@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'consider following me on twitch if you want- twitch.tv/daniboi_27',
+    paragraph: 'Idk, I play a bunch of different games and love takling to people. Come around and hangout my dudes.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Big Year, Big Changes
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  This is just filler at this point, I can't let the website win
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                   I mean the fact I've typed this much should show you that I know how to work this program, but noooooooo, I have to keep typing like the monke I am in my heart of hearts. The monke that I was made to be.
                   </p>
               </div>
               <div className={
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Oh hi Mark.
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                "LiGhtNiNg FaSt WoRkFlOw!?!"
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                ^^^^ This right here is such a lazy way of saying that you can work fast as a developer. Oh wow our workflow system is so efficent that you'll feel like it's done in an instant. Whatever dude.
                   </p>
               </div>
               <div className={
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Lightning fast, Ka-Chow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Masterfully driven, just like Lightning McQueen
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  "He did what in his cup?" -Tow Mater
                   </p>
               </div>
               <div className={

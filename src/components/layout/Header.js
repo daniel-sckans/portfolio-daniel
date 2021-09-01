@@ -41,7 +41,7 @@ const Header = ({
     document.addEventListener('click', clickOutside);
     return () => {
       document.removeEventListener('keydown', keyPress);
-      document.addEventListener('click', clickOutside);
+      document.removeEventListener('click', clickOutside);
       closeMenu();
     };
   });  
@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Documentation</Link>
+                      <Link to="#0" onClick={closeMenu}>"Imagine mario arrives at a bus stop..." -Darbian </Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
+                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>-Summoning Salt</Link>
                       </li>
                     </ul>}
                 </div>

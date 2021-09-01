@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'The Lofi radio that gets me through school when I am not talking to people on discord- https://www.youtube.com/watch?v=DWcJFNfaw9c',
+    paragraph: 'Discord calls are super clutch when it comes to studying, even if it is with people who are in different classes. It is about the atmosphere you create to have fun and do well. Alright chums, lets do this. LEEROYYYYYYYYY, JENKINNNNNNSSSS!!!'
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Family Guy, not the show you guys
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    I have 8 siblings (I'm the middle child), 2 awesome parents, and I wouldn't trade it for anything
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Gamer Dan is the name
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    if you want to get to know me, you're gonna have to play some games. Whether it's a board game, video game, or w/e. It could be legit anything, but if there isn't a game involved then idk how to talk to you ngl.
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Boom.
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Bam. Bop. Badda-bop-boom. Pow. OHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!
                     </p>
                 </div>
               </div>
@@ -137,10 +137,18 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Oh, I bid fairwell to the port and the land
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  And I paddle away from brave England's white sands
+To search for my long ago forgotten friends
+To search for the place I hear all sailors end
+As the souls of the dead fill the space of my mind
+I'll search without sleeping 'til peace I can find
+I fear not the weather, I fear not the sea
+I remember the fallen, do they think of me?
+When their bones in the ocean forever will be
+
                     </p>
                 </div>
               </div>
@@ -159,10 +167,16 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                  Obi-Wan Kenobi: You have allowed this dark lord to twist your mind, until now... until now you've become the very thing you swore to destroy.
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Anakin Skywalker: Don't lecture me, Obi-Wan! I see through the lies of the Jedi. I do not fear the dark side as you do. I have brought peace, freedom, justice, and security to my new Empire.
+Obi-Wan Kenobi: Your new empire?
+Anakin Skywalker: Don't make me kill you.
+Obi-Wan Kenobi: Anakin, my allegiance is to the Republic, to democracy!
+Anakin Skywalker: If you're not with me, then you're my enemy.
+Obi-Wan Kenobi: Only a Sith deals in absolutes. I will do what I must.
+Anakin Skywalker: You will try.
                     </p>
                 </div>
               </div>
@@ -181,10 +195,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Workflow Shmirkflow, ya know what I mean???
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Sometimes you just gotta go with the flow, and others you gotta rely on God.
                     </p>
                 </div>
               </div>
