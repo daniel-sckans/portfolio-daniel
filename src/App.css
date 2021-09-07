@@ -1,0 +1,48 @@
+/* background-color, #2f6, !important;
+color: #000 !important; */
+
+body {
+    background-image: url('/portfolio/MilkMeme.png') !important;
+    background-size:contain;
+    background-color: #f0f;
+}
+
+h1, h2 {
+    color:#0ff !important;
+
+    background-image: url('/portfolio/MilkMeme.png') !important;
+    background-position: center;
+    background-size: cover;
+}
+
+.text-color-primary {
+    color: #0ff !important; 
+}
+
+span {
+    color: #FF0 !important; 
+}
+
+a.button-dark {
+    background-color: #639 !important; 
+}
+
+a svg path {
+    fill: #F00; 
+}
+
+@keyframes custom {
+    0% {
+        color: #fff;  
+    }
+    50% {
+        color:#f00;
+    }
+    100% {
+        color: #00f;
+    }
+}
+
+.reveal-from-right * {
+    animation: 5s custom infinite; 
+}

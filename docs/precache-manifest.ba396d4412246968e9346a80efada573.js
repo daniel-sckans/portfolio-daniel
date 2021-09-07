@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ab1daf5a39f90e5cf2d72bfe5b5f969",
+    "revision": "621f717b29a93c0bb72f41d9b6f7af96",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "1712005739103aa8fe16",
-    "url": "/portfolio/static/css/main.ddab684c.chunk.css"
+    "revision": "3905044748209bd0e523",
+    "url": "/portfolio/static/css/main.8d5ec272.chunk.css"
   },
   {
     "revision": "3275c2a99c5680dbdd9b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.5a3542f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1712005739103aa8fe16",
-    "url": "/portfolio/static/js/main.f05c9c06.chunk.js"
+    "revision": "3905044748209bd0e523",
+    "url": "/portfolio/static/js/main.0695b36d.chunk.js"
   },
   {
     "revision": "62dea3017bd2ba8df9d9",
@@ -52,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/portfolio/static/media/features-split-image-01.d9cb99ce.png"
+    "revision": "4c9294938bdaf1a1005fc7017f63d379",
+    "url": "/portfolio/static/media/features-split-image-01.4c929493.png"
   },
   {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/portfolio/static/media/features-split-image-02.3c569239.png"
+    "revision": "f4b72f7e55388f09786bdd0b390c7e06",
+    "url": "/portfolio/static/media/features-split-image-02.f4b72f7e.png"
   },
   {
-    "revision": "87e4d053756c60c9f421195d8eafdbfe",
-    "url": "/portfolio/static/media/features-split-image-03.87e4d053.png"
+    "revision": "01394c7b3469e203efe5abe4361b9155",
+    "url": "/portfolio/static/media/features-split-image-03.01394c7b.png"
   },
   {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/logo.2810a88b.svg"
   },
   {
-    "revision": "a622fc5dd8adcdd27ea42218385013b4",
-    "url": "/portfolio/static/media/video-placeholder.a622fc5d.jpg"
+    "revision": "8a02b0d749c4ccb70b1b7ffedd592823",
+    "url": "/portfolio/static/media/video-placeholder.8a02b0d7.jpg"
   }
 ]);

@@ -73,7 +73,7 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
                     Get started
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
+                  <Button tag="a" color="primary" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
                     View on Github
                     </Button>
                 </ButtonGroup>
@@ -91,7 +91,7 @@ const Hero = ({
                 className="has-shadow"
                 src={require('./../../assets/images/video-placeholder.jpg')}
                 alt="Hero"
-                width={896}
+                width={700}
                 height={504} />
             </a>
           </div>

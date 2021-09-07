@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'The Lofi radio that gets me through school when I am not talking to people on discord- https://www.youtube.com/watch?v=DWcJFNfaw9c',
-    paragraph: 'Discord calls are super clutch when it comes to studying, even if it is with people who are in different classes. It is about the atmosphere you create to have fun and do well. Alright chums, lets do this. LEEROYYYYYYYYY, JENKINNNNNNSSSS!!!'
+    title: 'Lo-Fi is the best study music, no cappuccino',
+    paragraph: 'Discord calls are super clutch when it comes to studying, even if it is with people who are in different classes. It is about the atmosphere you create to have fun and do well.'
   };
 
   return (
@@ -198,7 +198,7 @@ Anakin Skywalker: You will try.
                     Workflow Shmirkflow, ya know what I mean???
                     </h4>
                   <p className="m-0 text-sm">
-                    Sometimes you just gotta go with the flow, and others you gotta rely on God.
+                    Sometimes you just gotta go with the flow, and other times you gotta rely on God.
                     </p>
                 </div>
               </div>
