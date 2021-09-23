@@ -8,7 +8,7 @@ body {
 }
 
 h1, h2 {
-    color:#0ff !important;
+    color:#248 !important;
 
     background-image: url('/portfolio/MilkMeme.png') !important;
     background-position: center;
@@ -19,7 +19,7 @@ h1, h2 {
 
  }
 .text-color-primary {
-    color: #0ff !important; 
+    color: #248 !important; 
 }
 
 span {
@@ -32,10 +32,6 @@ a.button-dark {
 
 a svg path {
     fill: #F00; 
-}
-
-.reveal-from-right { 
-    font-family: Georgia, 'Comic Sans', Times, serif; 
 }
 
 .easter-egg-blueberry{
