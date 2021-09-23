@@ -40,7 +40,6 @@ const App = () => {
       children={() => (
         <Switch>
           <AppRoute exact path="/portfolio-daniel" component={Home} layout={LayoutDefault} />
-          <AppRoute exact path="/portfolio-daniel/easter-egg" component={EasterEgg}/>
         </Switch>
       )} />
   );
