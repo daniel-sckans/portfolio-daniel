@@ -70,11 +70,11 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
-                    Get started
+                  <Button tag="a" color="primary" className="banana" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
+                    Get Beaned
                     </Button>
-                  <Button tag="a" color="primary" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
-                    View on Github
+                  <Button tag="a" color="primary" className="banana" wideMobile href="https://i.redd.it/97ox0dlpu9l41.png">
+                    Stinko Binko
                     </Button>
                 </ButtonGroup>
               </div>

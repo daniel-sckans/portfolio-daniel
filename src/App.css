@@ -14,7 +14,10 @@ h1, h2 {
     background-position: center;
     background-size: cover;
 }
+ .banana{
+     color:#cc0 !important;
 
+ }
 .text-color-primary {
     color: #0ff !important; 
 }
@@ -31,18 +34,32 @@ a svg path {
     fill: #F00; 
 }
 
-@keyframes custom {
-    0% {
-        color: #fff;  
-    }
-    50% {
-        color:#f00;
-    }
-    100% {
-        color: #00f;
-    }
+.reveal-from-right { 
+    font-family: Georgia, 'Comic Sans', Times, serif; 
 }
 
-.reveal-from-right * {
-    animation: 5s custom infinite; 
+.easter-egg-blueberry{
+    height:100vh;
+    /*width:50rem;*/
+    color:#248;
+    background-color: #797;
+
+    border: 50px solid#777
+}
+
+.inner-blueberry{
+    background-color:#779
+}
+.the-other-div-within-the-div{
+    background-color: #977;
+}
+.navigation{
+    background-color:#246
+}
+.img-smol-pupper{
+    height: 259px;
+    width:auto;
+
+    background-repeat: no-repeat ;
+    background-image: url('/portfolio/images/Smol Pupper.jpg')
 }
